@@ -1,0 +1,12 @@
+{
+  "name": "serverless-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "puppeteer": "^20.1.0"
+  }
+}
