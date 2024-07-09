@@ -1,12 +1,14 @@
 {
   "name": "serverless-proxy",
   "version": "1.0.0",
+  "description": "Serverless proxy using Puppeteer on Vercel",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "start": "vercel dev"
   },
   "dependencies": {
-    "puppeteer": "^20.1.0"
-  }
+    "puppeteer": "^22.6.4"
+  },
+  "author": "Your Name",
+  "license": "MIT"
 }
